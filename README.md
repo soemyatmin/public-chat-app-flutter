@@ -1,3 +1,8 @@
+This is a Flutter course from Udemy, I develop from the stub project. 
+The following README are theirs. XD
+
+
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
