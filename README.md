@@ -15,4 +15,4 @@ A modern messaging app where users can sign up and log in to chat.
 
 
 
->This is a The App Brewery's Flutter Development Course, for more information please see the original course[Here].(https://www.udemy.com/course/flutter-bootcamp-with-dart/)
+>This is a The App Brewery's Flutter Development Course, for more information please see the original course[Here](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
