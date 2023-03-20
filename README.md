@@ -1,6 +1,6 @@
 This is a Flutter course from Udemy, I develop from the stub project. 
 
-# Flash Chat ⚡️
+# Flash Chat
 
 ## Project Info
 
